@@ -1,8 +1,8 @@
-# Jaehwan Ha · AI Technical Consultant
+# Jaehwan Ha · AI Technical Consultant / GenAI Pre-Sales / PoC Builder
 
 고객 요구사항을 PoC, 제안서, 데모 가능한 AI 솔루션으로 연결합니다.
 
-I work around GenAI PoC planning, RAG/document workflows, AI agent prototypes, and proposal-ready technical communication.
+I connect customer requirements to GenAI PoC plans, RAG/document workflows, AI agent prototypes, and proposal-ready technical communication.
 
 ## What I do
 
