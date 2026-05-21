@@ -15,12 +15,12 @@ I connect customer requirements to GenAI PoC plans, RAG/document workflows, AI a
 
 ## Selected work
 
-- Portfolio — AI Technical Consultant portfolio covering GenAI PoC, RAG, proposal-ready workflows, and selected case studies.
-- Claude-Codex Vibekit — Local quality-gate workflow for safer AI-assisted coding sessions.
-- AI Service Template — Windows/PowerShell safety harness for preview-first Codex and Claude Code workflows.
-- HWP to PDF API — FastAPI prototype for HWP/HWPX to PDF document conversion workflows.
-- Korean TTS Benchmark — Benchmarking Korean TTS options for voice guidance scenarios.
-- FTC Document Analysis — Early GenAI document-analysis prototype notes for FTC/contract review workflows; not a production legal system.
+- [Portfolio](https://portfolio-wheat-eight-17.vercel.app/) — AI Technical Consultant portfolio covering GenAI PoC, RAG, proposal-ready workflows, and selected case studies.
+- [Claude-Codex Vibekit](https://github.com/hwan96-ai/claude-codex-vibekit) — Local quality-gate workflow for safer AI-assisted coding sessions.
+- [AI Service Template](https://github.com/hwan96-ai/ai-service-template) — Windows/PowerShell safety harness for preview-first Codex and Claude Code workflows.
+- [HWP to PDF API](https://github.com/hwan96-ai/hwp-to-pdf-api) — FastAPI prototype for HWP/HWPX to PDF document conversion workflows.
+- [Korean TTS Benchmark](https://github.com/hwan96-ai/korean-tts-benchmark) — Benchmarking Korean TTS options for voice guidance scenarios.
+- [FTC Document Analysis](https://github.com/hwan96-ai/Adjudicating_FTC_documents) — Early GenAI document-analysis prototype notes for FTC/contract review workflows; not a production legal system.
 
 ## Current focus
 
